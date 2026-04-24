@@ -7,7 +7,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-red?style=flat-square)](LICENSE)
 
 **Plataforma completa de pedidos delivery com rastreamento em tempo real**
 
@@ -79,4 +79,4 @@ docker compose up -d
 
 ## 📄 Licenca
 
-[MIT](LICENSE) — Rone Bragaglia
+[CC BY-NC 4.0](LICENSE) — Rone Bragaglia — Uso comercial proibido sem autorizacao
