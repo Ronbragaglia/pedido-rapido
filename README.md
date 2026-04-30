@@ -79,4 +79,4 @@ docker compose up -d
 
 ## 📄 Licenca
 
-[CC BY-NC 4.0](LICENSE) — Rone Bragaglia — Uso comercial proibido sem autorizacao
+[CC BY-NC 4.0](LICENSE) | Rone Bragaglia | Uso comercial proibido sem autorizacao
